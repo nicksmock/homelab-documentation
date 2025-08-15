@@ -1,0 +1,3 @@
+# Never push private docs or secrets
+homelab-documentation/private/
+.env
